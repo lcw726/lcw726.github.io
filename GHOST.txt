@@ -1,3 +1,5 @@
+（中央社記者張建中新竹2019年11月13日電）動態隨機存取記憶體（DRAM）廠南亞科 (2408) 通過由台灣檢驗科技（SGS）的ISO 27001資訊安全管理系統認證，展現對智慧財產權保護的決心與重視。南亞科指出，這次ISO 27001認證範圍包括DRAM自主研發的製程及產品，與技轉文件的技術資訊，及資訊流的資訊安全管理系統，並涵蓋相關機房維運、網路服務及資訊系統開發、操作與維運。
+
 Copyright (c) 2013-2017 Ghost Foundation - Released under The MIT License.
 
 Permission is hereby granted, free of charge, to any person
