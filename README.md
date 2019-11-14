@@ -1,3 +1,8 @@
+1.	檔案名稱: news_data.json
+2.	存放位置:D:\AI_WorkFolder\B班\QC 袁瑞霞\TF-IDF_Tutorial-master\data
+3.	檔案前置處理說明:
+
+
 ## Jasper2
 
 [![Build Status](https://travis-ci.org/jekyller/jasper2.svg?branch=master)](https://travis-ci.org/jekyller/jasper2)
